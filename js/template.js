@@ -3,6 +3,7 @@
 	$(function() {
 		$('.owl-carousel-projects').owlCarousel({
 			loop: true,
+			autoWidth: true,
 			stagePadding: 100,
 			margin: 20,
 			nav: false,
